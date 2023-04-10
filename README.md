@@ -1,4 +1,4 @@
-# PCBCrew BLDGOT kWh
+# PCBCrew ™ BLDGOT kWh
 
 Poly-phase (3-phase and single-phase) power meter with ESP32, PoE, and ADE7878/ADE7880.
 
@@ -33,3 +33,13 @@ Poly-phase (3-phase and single-phase) power meter with ESP32, PoE, and ADE7878/A
 | SCSn  | SPI2_CS0   | GPIO_10  |
 | RSTn  | SPI2_RESET | GPIO_47  |
 | INTn  | SPI2_INT   | GPIO_48  |
+
+### Project Ownership
+
+This repository is hosted to the PCB desiber([DumTux](https://github.com/dumtux))'s GitHub account for backup.
+The copyright of this hardware design is owned by [BUILDING OPTIMIZATION TECHNOLOGIES ™](https://www.bldgot.com/).
+
+### Sponsors:
+
+* [BUILDING OPTIMIZATION TECHNOLOGIES ™](https://www.bldgot.com/)
+* [PCBCrew ™](https://pcbcrew.com/)
