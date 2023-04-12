@@ -1,4 +1,6 @@
-# PCBCrew ™ BLDGOT kWh
+# PCBCrew ™ **kWh** Power Meter
+
+> Designed for [BUILDING OPTIMIZATION TECHNOLOGIES ™][bldgot]
 
 Poly-phase (3-phase and single-phase) power meter with ESP32, PoE, and ADE7878/ADE7880.
 
